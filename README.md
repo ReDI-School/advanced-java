@@ -1,3 +1,138 @@
+# advanced-java
+Advanced Java Course - ReDI School Berlin
+
+<img width="1019" alt="Bildschirmfoto 2022-02-03 um 16 54 39" src="https://user-images.githubusercontent.com/51905839/152378653-6664affb-5c23-4742-b4fa-2e685818c827.png">
+
+
+# Vision:
+Empower students to get an internship as junior software dev, junior java dev
+
+# Who is the course for?
+Students who want to start a career as software dev and who have a certain prior knowledge about the following topics:
+- docker basics
+- SQL
+- OOP
+- Data structures and simple algorithms
+- know how to use git / IntelliJ
+- feel comfortable with programming with java course curriculum.
+
+# Learning Environment
+- We foster a pro-active learning atmosphere where students feel ownership for their learning journey.
+- We focus on coaching rather than teaching
+- Practice first, theory second
+
+# Structure
+The course has a duration of 4 months. The course is split into four parts, hence roughly one month per part.
+
+## 1. Month - API Design
+**Goal:** Create a simple app
+
+**Core Knowledge:** API Design, Springboot, REST, Docker, Dependency Injection, MVCS
+
+**Mindset/Skills:** Motivated to study by themselves, Think about the big picture not the just the code, Proactive to ask questions.
+
+**Resources:**
+- *resources are there to help the teacher build the session*
+- *resources can be online courses, youtube videos, articles, repos, pdfs, anything you believe is helpful to build a session.*
+- *resources can also be used for further exercises or preparation for students*
+- [Building a RESTful Web Service Guide](https://spring.io/guides/gs/rest-service/)
+- [Building REST services with Spring Guide](https://spring.io/guides/tutorials/rest/)
+- [Spring Boot Tutorial – How to Build Fast and Modern Java Apps](https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/)
+- [Use Spring Boot and Java to create a Rest API - Tutorial](https://www.freecodecamp.org/news/use-spring-boot-and-java-to-create-a-rest-api-tutorial/)
+- [Spring Boot Tutorial for Beginners - Youtube Video](https://www.youtube.com/watch?v=vtPkZShrvXQ)
+- [Spring Framework And Dependency Injection For Beginners](https://www.udemy.com/course/spring-framework-video-tutorial/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-vym6o3G8yRwv8pSzLrbZ0w&siteID=JVFxdTr9V80-8SNbhyaiGnts0o5GwK6r0A&utm_medium=udemyads&utm_source=aff-campaign)
+- [Introducing Spring Boot - free Udemy course](https://www.udemy.com/course/spring-boot-getting-started/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-ltdAVzIwH_Wp6aR5qub7Kg&siteID=JVFxdTr9V80-3gqihJuruthAeld__4bMQw&utm_medium=udemyads&utm_source=aff-campaign)
+- [Getting Started with Spring Boot](https://amigoscode.com/p/spring-boot)
+- *please add your resource ideas here*
+-
+
+
+**Sessions:**
+- We have ~6 sessions
+- Please add a rough structure what to cover in which session
+- Session 1:
+- Session 2:
+- Session 3:
+- Session 4:
+- Session 5:
+- Session 6:
+
+## 2. Month - Databases
+**Goal:** Create a CRUD app
+
+**Core Knowledge:** Databases(NoSQL, RDB, concepts), Create and setup a DB, Connect to a DB, SQL. While we teach how to use DBs with Java, we do not teach how to use the db.
+
+**Mindset/Skills:** Motivated to study topics where you are not strong yet.
+
+**Resources:**
+- *resources are there to help the teacher build the session*
+- *resources can be online courses, youtube videos, articles, repos, pdfs, anything you believe is helpful to build a session.*
+- *resources can also be used for further exercises or preparation for students*
+- *please add your resource ideas here*
+
+
+**Sessions:**
+- We have ~6 sessions
+- Please add a rough structure what to cover in which session
+- Session 7:
+- Session 8:
+- Session 9:
+- Session 10:
+- Session 11:
+- Session 12:
+
+## 3. Month - Databases + Concurrency
+**Goal:** Your app is running processes
+
+**Core Knowledge:** Concurrency, Caching, Know how to run threads / jobs, Redis
+
+**Mindset/Skills:** Open for Feedback, Code Review, able to work with critique, perserverance
+
+**Resources:**
+- *resources are there to help the teacher build the session*
+- *resources can be online courses, youtube videos, articles, repos, pdfs, anything you believe is helpful to build a session.*
+- *resources can also be used for further exercises or preparation for students*
+- *please add your resource ideas here*
+
+
+**Sessions:**
+- We have ~6 sessions
+- Please add a rough structure what to cover in which session
+- Session 13:
+- Session 14:
+- Session 15:
+- Session 16:
+- Session 17:
+- Session 18:
+
+## 4. Month - Project
+**Goal:** Deploy app on AWS
+
+**Core Knowledge:** Micro Services, Message Queues, Authentificaction, Authorization, Deploy on AWS.
+
+**Mindset/Skills:** Problem solving, finish things
+
+**Resources:**
+- *resources are there to help the teacher build the session*
+- *resources can be online courses, youtube videos, articles, repos, pdfs, anything you believe is helpful to build a session.*
+- *resources can also be used for further exercises or preparation for students*
+- *please add your resource ideas here*
+
+
+**Sessions:**
+- We have ~6 sessions
+- Please add a rough structure what to cover in which session
+- Session 19:
+- Session 20:
+- Session 21:
+- Session 22:
+- Session 23:
+- Session 24:
+
+
+# General Resources
+- *You have found a resource which does not fit in any of the prior months? Add it here.*
+
 # minima
 
 *Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.

@@ -1,11 +1,9 @@
-title: Your awesome title
+title: Advanced Java
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: ReDI School of Digital Integration
+  email: hello@redi-school.org
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the homepage of the "Advanced Java" course at ReDI School
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

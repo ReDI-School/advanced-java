@@ -26,15 +26,13 @@ The course has a duration of 4 months. The course is split into four parts, henc
 
 ## 1. Month - API Design
 **Goal:** Create a simple app
+**Problem:** URL Shortener 
 
 **Core Knowledge:** API Design, Springboot, REST, Docker, Dependency Injection, MVCS
 
 **Mindset/Skills:** Motivated to study by themselves, Think about the big picture not the just the code, Proactive to ask questions.
 
 **Resources:**
-- *resources are there to help the teacher build the session*
-- *resources can be online courses, youtube videos, articles, repos, pdfs, anything you believe is helpful to build a session.*
-- *resources can also be used for further exercises or preparation for students*
 - [Building a RESTful Web Service Guide](https://spring.io/guides/gs/rest-service/)
 - [Building REST services with Spring Guide](https://spring.io/guides/tutorials/rest/)
 - [Spring Boot Tutorial – How to Build Fast and Modern Java Apps](https://www.freecodecamp.org/news/spring-boot-tutorial-build-fast-modern-java-app/)
@@ -48,17 +46,31 @@ The course has a duration of 4 months. The course is split into four parts, henc
 
 
 **Sessions:**
-- We have ~6 sessions
-- Please add a rough structure what to cover in which session
-- Session 1:
+- Session 1: 
+  - Module: What is the problem we want to solve? Break it down: Requirements.
+  - Outcome: Setup Documentation
 - Session 2:
-- Session 3:
-- Session 4:
-- Session 5:
+  - Module: Application context Spin up a springboot application
+  - Outcome: Springboot application: "Hello world", Everyone is using the same build tool
+- Session 3: 
+  - Module: Dependency Injection, MVCS
+  - Outcome: Business logic and unit tests
+- Session 4: 
+  - Module: API Design, REST, HTTP/Status, Swagger
+  - Outcome: Outcome: Implement APIs in Springboot (controller side) Skeletton setup
+- Session 5: 
+  - Module: Testing, Testing with Postman, Optional: Retrofit, Optional: Integration test
+  - Outcome: Have tests for the application
 - Session 6:
+  - Module: RECAP / REVIEW Challenge / transfer the knowledge to another exercise
+  - Outcome: Transferred learnings to new project
+
+
+
 
 ## 2. Month - Databases
 **Goal:** Create a CRUD app
+**Problem:** Enhanced URL Shortener
 
 **Core Knowledge:** Databases(NoSQL, RDB, concepts), Create and setup a DB, Connect to a DB, SQL. While we teach how to use DBs with Java, we do not teach how to use the db.
 
@@ -72,14 +84,25 @@ The course has a duration of 4 months. The course is split into four parts, henc
 
 
 **Sessions:**
-- We have ~6 sessions
-- Please add a rough structure what to cover in which session
 - Session 7:
+  - Module: Databases, NoSQL RDB Concepts, Homework: Install / Intro to Docker, Homework: Postgres Docker image
+  - Outcome: In memory data structure for the app with map
 - Session 8:
+  - Module: Postgres Docker image, Create / Setup a DB, Spin up Postgres Container, Connect to db
+  - Outcome: DB created
 - Session 9:
+  - Module: Spring JPA, Connect to Postgres Docker container
+  - Outcome: DB persisted
 - Session 10:
+  - Module: User management, foreign key, delete, ...
+  - Outcome: DB created, data presisted
 - Session 11:
+  - Module: Dockerize the application
+  - Outcome: Application dockerized and running
 - Session 12:
+  - Module: REVIEW / RECAP
+  - Outcome: Transferred learnings to new project
+
 
 ## 3. Month - Databases + Concurrency
 **Goal:** Your app is running processes

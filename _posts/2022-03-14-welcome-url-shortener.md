@@ -142,6 +142,24 @@ We go into break out session and discuss what are the requirements for our URL S
 class, we should have this documented, and we will focus on building a system that satisfies those requirements over the
 course fo this semester
 
+The requirements aggregated from the breakout rooms;
+
+- A user can request to shorten a long url
+- A user can request to access the long url of a shortened url
+- An admin who manages the application
+- A shortened URL can expire after a delay or can live forever
+- A dashboard with statistics of the URLs, who is accessing it, how many times, and from where, etc.
+- A shortneed url can have description perhaps to facilitate search
+- We can limit the kind of characters that are used in the shortened url
+- We can limit the number of times a shortened URL is accessed
+- We can limit the location from the shortened URL is accessed
+- We can use random identifiers for our shortened URLs
+- A user can specify the path/slug/identifier they want for their shortened URL e.g. short.url/my_special_slug
+- We can validate the long URLs to ensure that they are reachable
+- We can maintain a blocklist of domain names that we do not allow in our system for shortening.
+- A user can use free text to search for a previously shortened URL
+- We can monetize the app, have paid/premium features  
+
 ## What do you need for this course?
 
 - [Java](https://www.oracle.com/java/technologies/downloads/)

@@ -21,6 +21,10 @@ categories: misc
 
 ----
 
+### [Set up the assignment](https://classroom.github.com/a/x_XT-vwW)
+
+Please follow [this link](https://classroom.github.com/a/x_XT-vwW) and accept the asignment. This serves as the base source code to the the tasks for this session. Do the tasks and push your changes to github.
+
 ### Run the application
 
 ```
